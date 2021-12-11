@@ -41,10 +41,6 @@ English version repo and Gitbook is on [english branch](https://github.com/labul
 
 **2、建议收藏我的在线网站，每篇文章开头都有对应的力扣题目链接，可以边看文章边刷题**：
 
-Gitbook 地址：https://labuladong.gitbook.io/algo/
-
-GitBook 在国内访问速度很慢，且常被攻击，我特意部署了两个镜像站点，大家可根据网络情况自行选择：
-
 Gitee Pages 地址：https://labuladong.gitee.io/algo/ （推荐）
 
 GitHub Pages 地址：https://labuladong.github.io/algo/
@@ -70,6 +66,7 @@ GitHub Pages 地址：https://labuladong.github.io/algo/
   * [动态规划解题框架](动态规划系列/动态规划详解进阶.md)
   * [动态规划答疑篇](动态规划系列/最优子结构.md)
   * [回溯算法解题框架](算法思维系列/回溯算法详解修订版.md)
+  * [提高刷题幸福感的小技巧](技术/刷题技巧.md)
   * [为了学会二分查找，我写了首诗](算法思维系列/二分查找详解.md)
   * [滑动窗口解题框架](算法思维系列/滑动窗口技巧.md)
   * [双指针技巧解题框架](算法思维系列/双指针技巧.md)
@@ -80,6 +77,7 @@ GitHub Pages 地址：https://labuladong.github.io/algo/
   * [动态规划答疑篇](动态规划系列/最优子结构.md)
   * [动态规划设计：最长递增子序列](动态规划系列/动态规划设计：最长递增子序列.md)
   * [编辑距离](动态规划系列/编辑距离.md)
+  * [经典动态规划：0-1 背包问题](动态规划系列/背包问题.md)
   * [经典动态规划问题：高楼扔鸡蛋](动态规划系列/高楼扔鸡蛋问题.md)
   * [经典动态规划问题：高楼扔鸡蛋（进阶）](动态规划系列/高楼扔鸡蛋进阶.md)
   * [动态规划之子序列问题解题模板](动态规划系列/子序列问题模板.md)
